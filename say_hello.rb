@@ -1,4 +1,4 @@
-name = "Kent Beck"
+name = "Kent Beck!"
 def say_hello(name)
-  puts "Hello ${say_hello}!"
+  puts "Hello ${say_hello}"
 end
